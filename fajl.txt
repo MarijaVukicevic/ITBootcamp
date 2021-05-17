@@ -1,0 +1,45 @@
+    1  pwd
+    2  ls
+    3  ls-l
+    4  ls -l
+    5  ll
+    6  cs ..
+    7  cd ..
+    8  pwd
+    9  cd Desktop
+   10  cd Filmovi & serije
+   11  cd Knjige
+   12  cd ..
+   13  cd ../..
+   14  pwd
+   15  ls -l
+   16  cd Marija
+   17  pwd
+   18  cd Desktop
+   19  pwd
+   20  mkdir test 123
+   21  mkdir test123
+   22  cd test123
+   23  touch test.txt
+   24  nano test.txt
+   25  cat test.txt
+   26  ls -l
+   27  ls --help
+   28  ls - lt
+   29  ls -l
+   30  ls -lt
+   31  rm test.txt
+   32  history
+   33  history > istorija.txt
+   34  cat istorija.txt
+   35  tail istorija.txt
+   36  tail -n 3 istorija.txt
+   37  head istorija.txt
+   38  head -n 3 istorija.txt
+   39  head -n 5 istorija.txt
+   40  date
+   41  time
+   42  mkdir novi123
+   43  cd novi123
+   44  touch fajl.txt
+   45  history > fajl.txt
